@@ -1,0 +1,8 @@
+pystyle==2.9
+multiprocess
+subprocess
+subprocess.run
+sys
+time
+threading
+bs64
